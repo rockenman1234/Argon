@@ -17,7 +17,7 @@ If you are a macOS user who wants to set up a development environment quickly an
 
 ## Installation Procedure - Easy
 Head over to the releases tab, and download the MacOS package (.pkg) installer. Or click here for a direct download: 
-<a href="https://www.example.com" title="Download Argon">Latest Release: 0.0.1</a>
+<a href="https://github.com/rockenman1234/Argon/releases/download/v0.0.1/Argon-1.0.pkg" title="Download Argon">Latest Release: 0.0.1</a>
 
 #### Step 1). Open the installer package (.pkg) file:
 ![](https://raw.githubusercontent.com/rockenman1234/Argon/main/Screenshots/install1.png)
