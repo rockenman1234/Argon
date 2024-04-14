@@ -2,6 +2,10 @@
 ==========
 
 
+# Argon has been discontinued! Please use the faster and more stable Argon2 instead!
+<a href="https://github.com/rockenman1234/Argon2" title="Argon 2">Download Argon2 on GitHub</a>
+
+
 ## What's Argon?
 Argon is an inert gas that is known for its stability and unreactivity under normal conditions. Similarly, this software is designed to provide a stable and reliable platform for software developers and power users to get started using their Mac's as quickly and reliably as possible - without leaving a trace. 
 
